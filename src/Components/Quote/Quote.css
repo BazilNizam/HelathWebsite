@@ -1,0 +1,32 @@
+.Quote_container{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+}
+
+.border-image{
+    width: 80rem;
+    height: 15rem;
+    margin-left: -7rem;
+}
+
+.backgroundimg{
+    width: 65rem;
+    height: 13rem;
+}
+
+.backgroundimgcontainer{
+    margin-top: -10rem;
+    margin-left: 20rem;
+    z-index: -1;
+}
+
+.quotetext{
+    margin-top: -15rem;
+    font-size: 20px;
+    margin-left: -12rem;
+
+}

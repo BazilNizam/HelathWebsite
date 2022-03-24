@@ -1,0 +1,52 @@
+.banner {
+ 
+  /* overflow: hidden; */
+}
+
+.bannerIm {
+  margin-top: -100px;
+  margin-left: -8px;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  z-index: -1;
+  object-fit: contain;
+}
+
+.bannertitle{
+  /* border: 3px solid blue; */
+  justify-content: center;
+  text-align: center;
+  padding-top: 270px;
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  right: 0;
+  left: 0;
+
+}
+
+.bannerbutton{
+  color: #ffffff;
+  font-size: 15ppx;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 2px;
+  text-decoration: none;
+  background-color: transparent;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+}
+
+.nav-button-container{
+  margin-top: ;
+  /* background-color: bisque; */
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 500px;
+
+
+}

@@ -1,0 +1,90 @@
+.navcontainer {
+  /* background-color: aqua; */
+}
+
+.navbar-img {
+  /* background-color: bisque; */
+}
+
+.nav_elements {
+  /* background-color: blue; */
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.nav-menus {
+  /* background-color: aquamarine; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+.nav-menus li {
+  margin: 0 1rem;
+  cursor: pointer;
+}
+
+.nav-contactus {
+  /* background-color: blueviolet; */
+  margin: 0 1rem;
+}
+
+.nav-seperation-image {
+  /* background-color: red; */
+  margin: 0 0.5rem;
+}
+
+.nav-country-image {
+  /* background-color: cadetblue; */
+  margin: 0 0.5rem;
+ 
+}
+
+.nav-country-image img{
+  border-radius: 50%;
+  width: 45px;
+  height: 40px;
+}
+
+.nav-country-options select {
+  /* background-color: yellow; */
+  color: #000000;
+  font-size: 15px;
+  border: none;
+  text-decoration: none;
+  background-color: transparent;
+}
+.navbar {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 1rem;
+  /* background-color: brown; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+
+}
+
+.button-nav {
+  color: #000000;
+  font-size: 15ppx;
+  padding: 10px 20px 10px 20px;
+  border: solid #858585 2px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.button-nav:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.viewmorebtncontainer{
+  padding-top: 2.3rem;
+  padding-left: 54rem;
+}
