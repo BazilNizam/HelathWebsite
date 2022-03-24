@@ -1,0 +1,46 @@
+.testimony__container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10rem;
+}
+.headingcontainer {
+  margin-left: 12%;
+}
+
+.proiledpcontainer {
+  width: 100%;
+}
+
+.proiledpimage {
+  margin-left: 10%;
+}
+
+.outlineimagecontainer {
+  width: 100%;
+  margin-top: -13%;
+}
+
+.outlineimagecontainer img {
+  width: 55%;
+  height: 13rem;
+  margin-left: 25%;
+}
+
+.backimageblue {
+  z-index: -1;
+  width: 100%;
+  margin-top: -19%;
+}
+
+.backimageblue img {
+  margin-left: 40%;
+  width: 55%;
+  height: 13rem;
+}
+
+.testicontent{
+    width: 50%;
+    margin-left: 28%;
+    margin-top: -4%;
+}
