@@ -1,0 +1,74 @@
+.Casestudy__container{
+    
+    
+    margin-top: 10rem;
+    justify-content: center;
+
+}
+.imagescontainer{
+
+    display: flex;
+    
+}
+
+.image1container{
+    width: 100%;
+}
+.image1container img{
+    width: 35rem;
+    margin-left: 15rem;
+    
+}
+
+.image2container{
+    width: 100%;
+    z-index: -1;
+}
+
+.image2container img{
+    width: 40rem;
+    height: 30rem;
+    margin-top: 10rem;
+    margin-left: -8rem;
+    
+}
+
+
+
+.heading1{
+
+    margin-left:52rem;
+    margin-top: -41rem;
+
+}
+
+.secondheading{
+    margin-left:52rem;
+    
+}
+
+.case__study_content{
+    width: 20%;
+    margin-left: 53rem;
+    margin-top: 5rem;
+    font-size: 25px;
+    margin-bottom: 5rem;
+}
+
+.buttonconatiner{
+    margin-left: 53rem;
+    
+    
+}
+
+.button1{
+    color: #000000;
+  font-size: 15px;
+  font-weight: bold;
+  
+  padding: 10px 20px 10px 20px;
+  border: solid #858585 2px;
+  text-decoration: none;
+  background-color: transparent;
+  cursor: pointer;
+}

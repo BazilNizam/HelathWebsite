@@ -1,5 +1,6 @@
 import React from 'react'
 import Banner from './Components/Banner/Banner'
+import CaseStudy from './Components/CaseStudy/CaseStudy'
 import IntroBody from './Components/IntroBody/IntroBody'
 import LongBody from './Components/LongBody/LongBody'
 import NavBar from './Components/NavBar/NavBar'
@@ -18,6 +19,7 @@ const App = () => {
       <LongBody />
       <Quote />
       <Places />
+      <CaseStudy />
       
       
     

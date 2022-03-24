@@ -94,8 +94,8 @@ const Places = () => {
         </div>
       </div>
 
-      <div className="button">
-        <button>View More</button>
+      <div className="buttoncontainer">
+        <button className="button">View More</button>
       </div>
 
 
